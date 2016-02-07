@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "CYББОТНИК #Aug 2015"
+date:   2015-08-22 00:00:00 +0300
+---
+* Report on "Progressive .NET Tutorials 2015" conference (Mikhail Kuleshov, Kirill Nesterovich)
+* Isomorphic web applications (Kirill Nesterovich)
+* Dependency Injection (Maxim Kornilov)

@@ -1,0 +1,7 @@
+---
+layout: post
+title:  "CYББОТНИК #Mar 2015"
+date:   2015-03-21 00:00:00 +0300
+---
+
+* NoSQL or "How to stop JOINing and enjoy your life?" (Egor Nazarov)
