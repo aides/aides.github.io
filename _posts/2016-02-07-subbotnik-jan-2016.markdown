@@ -1,0 +1,9 @@
+---
+layout: post
+title:  "CYББОТНИК #Jan 2016"
+date:   2016-02-07 21:07:46 +0300
+---
+* Keynote: Return of the Subbotni (Mikhail Kuleshov)
+* SQL Database in MS Azure (Andrey Mitsyk)
+* Introduction to Python (Alexander Kiselev)
+* 3D Printing experience (Ivan Balagurov)
